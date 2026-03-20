@@ -5,7 +5,7 @@
       "name": "Gaming Laptop",
       "description": "RTX 3060, 16GB RAM",
       "price": 54999,
-      "image": "",
+      "image": "https://www.google.com/search?sca_esv=610e065ca637291f&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYkF4w9ksckliRqNmnEiwdZq9hi6Uf0JMwEobPco1ddsraLMoix6VFcBVLI33WJ4qzChHA80y2JbwB7Ntoj9wD-E0QQ0ZdtEYmEVOXRtobBmtczcO1eywFdgs0HIQoWFlRkLvAJg&q=RTX+3060,+16GB+RAM&sa=X&ved=2ahUKEwj3vIH0-q2TAxXozTQHHYm-OrsQtKgLegQIFhAB&biw=1280&bih=641&dpr=1#sv=CAMSVhoyKhBlLUpmdlZnS2RleXBTY3NNMg5KZnZWZ0tkZXlwU2NzTToOVjJTbDBoQWxFRnp6ek0gBCocCgZtb3NhaWMSEGUtSmZ2VmdLZGV5cFNjc00YADABGAcg1ubvpwNKCBABGAEgASgB",
       "status": "active"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Mechanical Keyboard",
       "description": "RGB, Blue Switches",
       "price": 1899,
-      "image": "",
+      "image": "https://www.google.com/search?sca_esv=610e065ca637291f&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYkF4w9ksckliRqNmnEiwdZq9hi6Uf0JMwEobPco1ddsraLMoix6VFcBVLI33WJ4qzChHA80y2JbwB7Ntoj9wD-E0QQ0ZdtEYmEVOXRtobBmtczcO1eywFdgs0HIQoWFlRkLvAJg&q=RGB,+Blue+Switches&sa=X&ved=2ahUKEwiFg_CC-62TAxWJsVYBHSLcKKwQtKgLegQIFhAB&biw=1280&bih=641&dpr=1#sv=CAMSVhoyKhBlLTllMzJzaG5SdlhtbTlNMg45ZTMyc2huUnZYbW05TToOMjcxZmxqTGVOT0tERk0gBCocCgZtb3NhaWMSEGUtOWUzMnNoblJ2WG1tOU0YADABGAcg2InetwRKCBABGAEgASgB",
       "status": "active"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Wireless Mouse",
       "description": "16000 DPI, RGB",
       "price": 899,
-      "image": "",
+      "image": "https://www.google.com/search?sca_esv=610e065ca637291f&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3p-ML-906rRL_m6h4jR-tdCeKIwp94h-QiJ4lJfObsqUPixp6KuAej6LdEw-ul8fud3FiyoYcNHDn3HZ8mQ6T-dc_Lv6-T38CdKIhgCFQIFG3Sd8RVa2ih8rL2A346DUQsN8XO8u9sh0GVwvIJHCVuaguYnuhB4zO9zl8NAUfw98CD1hhA&q=16000+DPI,+RGB&sa=X&ved=2ahUKEwimiPOR-62TAxX0slYBHccyLDkQtKgLegQIFxAB&biw=1280&bih=641&dpr=1#sv=CAMSVhoyKhBlLUdWQ0xhdEUxUXU4QTRNMg5HVkNMYXRFMVF1OEE0TToOOHpzTHhBMi1sNkZqNE0gBCocCgZtb3NhaWMSEGUtR1ZDTGF0RTFRdThBNE0YADABGAcgv7mf8wFKCBABGAEgASgB",
       "status": "active"
     },
     {
@@ -33,6 +33,6 @@
       "status": "active"
     }
   ],
-  "lastUpdated": "2026-03-20T07:27:57.849Z",
+  "lastUpdated": "2026-03-20T07:33:31.368Z",
   "totalProducts": 4
 }
