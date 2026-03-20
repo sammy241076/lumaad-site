@@ -1,27 +1,4 @@
 {
-  "orders": [
-    {
-      "id": "ORD-1774016406794",
-      "date": "2026-03-20T14:20:06.794Z",
-      "customer": {
-        "name": "sam",
-        "email": "sammy@gmail.com",
-        "phone": "52545454524",
-        "address": "iuyiyiy"
-      },
-      "items": [
-        {
-          "id": 1,
-          "name": "Gaming Laptop RTX 3060",
-          "price": 54999,
-          "quantity": 1,
-          "image": ""
-        }
-      ],
-      "total": 54999,
-      "paymentMethod": "cod",
-      "status": "pending"
-    }
-  ],
-  "lastUpdated": "2026-03-20T14:22:50.659Z"
+  "orders": [],
+  "lastUpdated": "2026-03-20T14:26:35.834Z"
 }
