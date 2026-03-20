@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gaming Laptop",
+      "description": "RTX 3060, 16GB RAM",
+      "price": 54999,
+      "image": "",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "description": "RGB, Blue Switches",
+      "price": 1899,
+      "image": "",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "Wireless Mouse",
+      "description": "16000 DPI, RGB",
+      "price": 899,
+      "image": "",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "Laptop",
+      "description": "laptop is a portable, battery-powered computer featuring a clamshell design with an integrated screen, keyboard, and touchpad. Ranging from 1-3 kg, these devices are designed for mobile use, offering a balance of performance and efficiency for tasks like browsing, document creation, and gaming. Modern laptops usually feature high-resolution displays",
+      "price": 5250,
+      "image": "https://www.google.com/search?sca_esv=610e065ca637291f&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwnRdx8cTjotWVyC2QMTVww_TG9Eu0OLNIehnzJwEINYJFzU0kjAejP_uidYRJuUjCdJMmSFzC7vVEwlK3lj_PGnJUfls2QcxQ4AHhhoSsN6ktflkCMFPIDUSEjFiGx73KyFmIMvrz8oT9vToqCnX3p2vkBRGw&q=laptop+description&sa=X&sqi=2&ved=2ahUKEwjV-KnY-a2TAxVdzzgGHTBjIcQQtKgLegQIGBAB&biw=1280&bih=641&dpr=1#sv=CAMSVhoyKhBlLXJRcTBNeDRIMnZqY3hNMg5yUXEwTXg0SDJ2amN4TToOSktxVDBYYS1JZERoRk0gBCocCgZtb3NhaWMSEGUtclFxME14NEgydmpjeE0YADABGAcg0qDy8QJKCBABGAEgASgB",
+      "status": "active"
+    }
+  ],
+  "lastUpdated": "2026-03-20T07:27:57.849Z",
+  "totalProducts": 4
+}
