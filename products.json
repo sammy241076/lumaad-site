@@ -69,7 +69,17 @@
       "category": "components",
       "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_7_1774105758300.jpg",
       "status": "active"
+    },
+    {
+      "id": 8,
+      "name": "AMD Ryzen 5 5600G Gaming PC Desktop",
+      "description": "AMD Ryzen 5 5600G Gaming PC Desktop With DDR4 16GB RAM M.2 512GB SSD Full Set PC Computer For Gaming",
+      "price": 14999,
+      "stock": 5,
+      "category": "laptops",
+      "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_8_1774106670090.jpg",
+      "status": "active"
     }
   ],
-  "lastUpdated": "2026-03-21T15:09:22.163Z"
+  "lastUpdated": "2026-03-21T15:24:34.222Z"
 }
