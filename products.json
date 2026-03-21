@@ -17,7 +17,7 @@
       "price": 3750,
       "stock": 7,
       "category": "accessories",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_2_1774102773656.jpg",
       "status": "active"
     },
     {
@@ -61,5 +61,5 @@
       "stock": 10
     }
   ],
-  "lastUpdated": "2026-03-21T14:19:10.182Z"
+  "lastUpdated": "2026-03-21T14:19:38.432Z"
 }
