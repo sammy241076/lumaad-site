@@ -79,7 +79,17 @@
       "category": "laptops",
       "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_8_1774106670090.jpg",
       "status": "active"
+    },
+    {
+      "id": 9,
+      "name": "Intel Core i5 / i7 Desktop Computer ",
+      "description": "Intel Core i5 / i7 Desktop Computer Quad-Core 8 Thread 16GB RAM 512GB SSD Full Set Pc Computer",
+      "price": 6299,
+      "stock": 5,
+      "category": "laptops",
+      "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_9_1774106823183.jpg",
+      "status": "active"
     }
   ],
-  "lastUpdated": "2026-03-21T15:24:34.222Z"
+  "lastUpdated": "2026-03-21T15:27:06.057Z"
 }
