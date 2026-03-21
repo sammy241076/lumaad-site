@@ -15,10 +15,10 @@
       "name": "INPLAY GTX750Ti ",
       "description": "INPLAY GTX750Ti / GTX960 / GT730 Graphics Card 4GB GDDR5 Video Card For PC Gaming",
       "price": 3750,
+      "stock": 7,
       "category": "accessories",
-      "image": " ",
-      "status": "active",
-      "stock": 7
+      "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_2_1774092437910.png",
+      "status": "active"
     },
     {
       "id": 3,
@@ -61,5 +61,5 @@
       "stock": 10
     }
   ],
-  "lastUpdated": "2026-03-21T11:25:16.286Z"
+  "lastUpdated": "2026-03-21T11:27:20.147Z"
 }
