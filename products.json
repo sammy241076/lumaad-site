@@ -55,11 +55,11 @@
       "name": "Fanxiang 2.5″ SATA SSD 512GB",
       "description": "Fanxiang S101 3D TLC 2.5″ SATA SSD 512GB 550MB/s Solid State Drive for Laptop PC",
       "price": 2899,
+      "stock": 10,
       "category": "components",
-      "image": " ",
-      "status": "active",
-      "stock": 10
+      "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_6_1774102877476.jpg",
+      "status": "active"
     }
   ],
-  "lastUpdated": "2026-03-21T14:21:05.265Z"
+  "lastUpdated": "2026-03-21T14:21:20.615Z"
 }
