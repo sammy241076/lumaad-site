@@ -89,7 +89,17 @@
       "category": "laptops",
       "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_9_1774106823183.jpg",
       "status": "active"
+    },
+    {
+      "id": 10,
+      "name": "Wireless Router 842N(TD",
+      "description": "Used 300Mbps Wireless Router 842N(TD firmware) WIFI English Version High Speed Contains Adaptor",
+      "price": 294,
+      "stock": 0,
+      "category": "accessories",
+      "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_10_1774106953683.jpg",
+      "status": "active"
     }
   ],
-  "lastUpdated": "2026-03-21T15:27:06.057Z"
+  "lastUpdated": "2026-03-21T15:29:17.106Z"
 }
