@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Gaming Laptop Asus Tuf",
+      "name": "Gaming Laptop Asus Tuf 📜 ",
       "description": "ASUS TUF A15 FA506NCG-HN187WSM Gaming Laptop/R7/8GB/512GB/15.6 Inches FHD/RTX3050/Win 11/Home 2024",
       "price": 54999,
       "stock": 5,
@@ -61,5 +61,5 @@
       "status": "active"
     }
   ],
-  "lastUpdated": "2026-03-21T14:22:34.822Z"
+  "lastUpdated": "2026-03-21T14:47:19.841Z"
 }
