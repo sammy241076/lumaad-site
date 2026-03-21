@@ -7,7 +7,8 @@
       "price": 54999,
       "category": "laptops",
       "image": " ",
-      "status": "active"
+      "status": "active",
+      "stock": 5
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "price": 3750,
       "category": "accessories",
       "image": " ",
-      "status": "active"
+      "status": "active",
+      "stock": 7
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "price": 471,
       "category": "laptops",
       "image": " ",
-      "status": "active"
+      "status": "active",
+      "stock": 8
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "price": 23499,
       "category": "laptops",
       "image": " ",
-      "status": "active"
+      "status": "active",
+      "stock": 3
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "price": 1999,
       "category": "components",
       "image": " ",
-      "status": "active"
+      "status": "active",
+      "stock": 2
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "price": 2899,
       "category": "components",
       "image": " ",
-      "status": "active"
+      "status": "active",
+      "stock": 10
     }
   ],
   "lastUpdated": "2026-03-21T07:35:56.291Z"
