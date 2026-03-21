@@ -7,7 +7,7 @@
       "price": 54999,
       "stock": 5,
       "category": "laptops",
-      "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_1_1774101459140.jpg",
+      "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_1_1774102745221.jpg",
       "status": "active"
     },
     {
@@ -61,5 +61,5 @@
       "stock": 10
     }
   ],
-  "lastUpdated": "2026-03-21T13:57:42.139Z"
+  "lastUpdated": "2026-03-21T14:19:10.182Z"
 }
