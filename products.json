@@ -25,7 +25,7 @@
       "name": "Logitech Wireless Bluetooth Mouse",
       "description": "Logitech M650 Wireless Bluetooth Mouse | Silent Design | 400-4000DPI Adjustable | Ideal for Office & Home Use | Black/White",
       "price": 471,
-      "stock": 8,
+      "stock": 1,
       "category": "accessories",
       "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_3_1774102800731.jpg",
       "status": "active"
@@ -61,5 +61,5 @@
       "status": "active"
     }
   ],
-  "lastUpdated": "2026-03-21T14:21:20.615Z"
+  "lastUpdated": "2026-03-21T14:22:34.822Z"
 }
