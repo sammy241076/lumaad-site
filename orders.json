@@ -85,7 +85,33 @@
       "total": 471,
       "paymentMethod": "cod",
       "status": "pending"
+    },
+    {
+      "id": "ORD-1774103059745",
+      "date": "2026-03-21T14:24:19.745Z",
+      "customer": {
+        "name": "sam",
+        "email": "sammy@gmail.com",
+        "phone": "09483978050",
+        "address": "vdlr Crossing Bayabas Toril"
+      },
+      "items": [
+        {
+          "id": 3,
+          "name": "Logitech Wireless Bluetooth Mouse",
+          "description": "Logitech M650 Wireless Bluetooth Mouse | Silent Design | 400-4000DPI Adjustable | Ideal for Office & Home Use | Black/White",
+          "price": 471,
+          "stock": 8,
+          "category": "accessories",
+          "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_3_1774102800731.jpg",
+          "status": "active",
+          "quantity": 2
+        }
+      ],
+      "total": 942,
+      "paymentMethod": "cod",
+      "status": "pending"
     }
   ],
-  "lastUpdated": "2026-03-21T14:23:41.502Z"
+  "lastUpdated": "2026-03-21T14:24:21.478Z"
 }
