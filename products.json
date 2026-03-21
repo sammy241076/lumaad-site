@@ -35,10 +35,10 @@
       "name": "Acer TravelMate P215",
       "description": "Acer TravelMate P215 Laptop | i5 11th Gen | 8GB RAM | 500GB SSD | 2GB GPU | 15.6\" | Windows 11",
       "price": 23499,
+      "stock": 3,
       "category": "laptops",
-      "image": " ",
-      "status": "active",
-      "stock": 3
+      "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_4_1774102835658.jpg",
+      "status": "active"
     },
     {
       "id": 5,
@@ -61,5 +61,5 @@
       "stock": 10
     }
   ],
-  "lastUpdated": "2026-03-21T14:20:16.826Z"
+  "lastUpdated": "2026-03-21T14:20:40.519Z"
 }
