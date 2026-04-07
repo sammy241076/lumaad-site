@@ -189,7 +189,33 @@
       "total": 3750,
       "paymentMethod": "cod",
       "status": "pending"
+    },
+    {
+      "id": "ORD-1775531429624",
+      "date": "2026-04-07T03:10:29.624Z",
+      "customer": {
+        "name": "sam",
+        "email": "sammy@gmail.com",
+        "phone": "09483978050",
+        "address": "Toril Davao City"
+      },
+      "items": [
+        {
+          "id": 5,
+          "name": "Fanxiang 2.5″ SATA SSD 256GB ",
+          "description": "Fanxiang S101 3D TLC 2.5″ SATA SSD  256GB 550MB/s Solid State Drive for Laptop PC",
+          "price": 1999,
+          "stock": 2,
+          "category": "accessories",
+          "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_5_1774102862642.jpg",
+          "status": "active",
+          "quantity": 1
+        }
+      ],
+      "total": 1999,
+      "paymentMethod": "cod",
+      "status": "pending"
     }
   ],
-  "lastUpdated": "2026-04-07T02:48:29.937Z"
+  "lastUpdated": "2026-04-07T03:10:31.438Z"
 }
