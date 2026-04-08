@@ -293,7 +293,33 @@
       "total": 3750,
       "paymentMethod": "cod",
       "status": "pending"
+    },
+    {
+      "id": "ORD-1775634880537",
+      "date": "2026-04-08T07:54:40.537Z",
+      "customer": {
+        "name": "sam",
+        "email": "sammy@gmail.com",
+        "phone": "09483978050",
+        "address": "fsdfsd"
+      },
+      "items": [
+        {
+          "id": 7,
+          "name": "Repair and Installation Services (Hardware/Software)",
+          "description": "Component repair service refers to the specialized process of Diagnosing, repairing, or refurbishing individual parts or sub-assemblies (components) of a larger system rather than replacing the entire machine. It is a proactive alternative to discarding faulty equipment and is frequently considered a \"component\" of a broader maintenance strategy, product warranty, or service-level agreement.",
+          "price": 2000,
+          "stock": 100,
+          "category": "components",
+          "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_7_1774105758300.jpg",
+          "status": "active",
+          "quantity": 1
+        }
+      ],
+      "total": 2000,
+      "paymentMethod": "cod",
+      "status": "pending"
     }
   ],
-  "lastUpdated": "2026-04-08T06:52:32.064Z"
+  "lastUpdated": "2026-04-08T07:54:42.494Z"
 }
