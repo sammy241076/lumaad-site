@@ -267,7 +267,33 @@
       "total": 471,
       "paymentMethod": "cod",
       "status": "pending"
+    },
+    {
+      "id": "ORD-1775631150301",
+      "date": "2026-04-08T06:52:30.301Z",
+      "customer": {
+        "name": "sam",
+        "email": "sammy@gmail.com",
+        "phone": "09483978050",
+        "address": "o'o'opp"
+      },
+      "items": [
+        {
+          "id": 2,
+          "name": "INPLAY GTX750Ti ",
+          "description": "INPLAY GTX750Ti / GTX960 / GT730 Graphics Card 4GB GDDR5 Video Card For PC Gaming",
+          "price": 3750,
+          "stock": 7,
+          "category": "accessories",
+          "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_2_1774102773656.jpg",
+          "status": "active",
+          "quantity": 1
+        }
+      ],
+      "total": 3750,
+      "paymentMethod": "cod",
+      "status": "pending"
     }
   ],
-  "lastUpdated": "2026-04-08T06:32:38.745Z"
+  "lastUpdated": "2026-04-08T06:52:32.064Z"
 }
