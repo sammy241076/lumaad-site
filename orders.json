@@ -215,7 +215,33 @@
       "total": 1999,
       "paymentMethod": "cod",
       "status": "pending"
+    },
+    {
+      "id": "ORD-1775629578124",
+      "date": "2026-04-08T06:26:18.124Z",
+      "customer": {
+        "name": "sam",
+        "email": "sammy@gmail.com",
+        "phone": "09483978050",
+        "address": "errwe"
+      },
+      "items": [
+        {
+          "id": 1,
+          "name": "Gaming Laptop Asus Tuf",
+          "description": "ASUS TUF A15 FA506NCG-HN187WSM Gaming Laptop/R7/8GB/512GB/15.6 Inches FHD/RTX3050/Win 11/Home 2024.",
+          "price": 54999,
+          "stock": 5,
+          "category": "laptops",
+          "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_1_1774102745221.jpg",
+          "status": "active",
+          "quantity": 1
+        }
+      ],
+      "total": 54999,
+      "paymentMethod": "cod",
+      "status": "pending"
     }
   ],
-  "lastUpdated": "2026-04-07T03:10:31.438Z"
+  "lastUpdated": "2026-04-08T06:26:19.954Z"
 }
