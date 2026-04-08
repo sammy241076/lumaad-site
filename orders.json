@@ -346,7 +346,34 @@
       "paymentMethod": "gcash",
       "status": "pending",
       "gcashNumber": "09123456789"
+    },
+    {
+      "id": "ORD-1775644283593",
+      "date": "2026-04-08T10:31:23.593Z",
+      "customer": {
+        "name": "sam",
+        "email": "sammy@gmail.com",
+        "phone": "09483978050",
+        "address": "Address"
+      },
+      "items": [
+        {
+          "id": 10,
+          "name": "Wireless Router 842N(TD",
+          "description": "Used 300Mbps Wireless Router 842N(TD firmware) WIFI English Version High Speed Contains Adaptor",
+          "price": 1,
+          "stock": 0,
+          "category": "accessories",
+          "image": "https://raw.githubusercontent.com/sammy241076/lumaad-site/main/images/product_10_1774106953683.jpg",
+          "status": "active",
+          "quantity": 1
+        }
+      ],
+      "total": 1,
+      "paymentMethod": "qrph",
+      "status": "awaiting_verification",
+      "paymentDate": "2026-04-08T10:32:07.905Z"
     }
   ],
-  "lastUpdated": "2026-04-08T08:27:15.651Z"
+  "lastUpdated": "2026-04-08T10:32:09.650Z"
 }
